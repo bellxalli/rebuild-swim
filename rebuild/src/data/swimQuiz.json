@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "How comfortable do you feel being in the water?",
+    "options": [
+      { "text": "I panic or feel very anxious in the water", "score": 0 },
+      { "text": "I stay near the wall or shallow end for safety", "score": 1 },
+      { "text": "I'm comfortable in the water but cautious in deep areas", "score": 2 },
+      { "text": "I feel completely at ease in any depth of water", "score": 3 }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Can you float on your back without assistance?",
+    "options": [
+      { "text": "No, I sink immediately", "score": 0 },
+      { "text": "I can float briefly but it takes a lot of effort", "score": 1 },
+      { "text": "I can float for 10–20 seconds with some effort", "score": 2 },
+      { "text": "I can float comfortably for as long as I need to", "score": 3 }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How long can you tread water without holding the wall?",
+    "options": [
+      { "text": "I cannot tread water at all", "score": 0 },
+      { "text": "Less than 30 seconds", "score": 1 },
+      { "text": "30 seconds to 2 minutes", "score": 2 },
+      { "text": "More than 2 minutes without tiring", "score": 3 }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "How far can you swim without stopping?",
+    "options": [
+      { "text": "I cannot swim across the pool on my own", "score": 0 },
+      { "text": "I can swim one length of the pool (25m)", "score": 1 },
+      { "text": "I can swim 2–4 lengths continuously", "score": 2 },
+      { "text": "I can swim 400m or more without stopping", "score": 3 }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Which best describes your knowledge of swim strokes?",
+    "options": [
+      { "text": "I don't know any strokes — I just try to stay afloat", "score": 0 },
+      { "text": "I know a doggy paddle or basic front crawl arm motion", "score": 1 },
+      { "text": "I can swim freestyle and have tried backstroke or breaststroke", "score": 2 },
+      { "text": "I can swim multiple strokes with proper technique", "score": 3 }
+    ]
+  }
+]

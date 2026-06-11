@@ -1,0 +1,62 @@
+[
+  {
+    "id": "beginner",
+    "label": "Beginner",
+    "minScore": 0,
+    "maxScore": 3,
+    "tagline": "Every great swimmer started here.",
+    "description": "You're at the very start of your swimming journey. The goal right now is building comfort and confidence in the water — not speed or distance.",
+    "nextSteps": [
+      "Sign up for a beginner adult swim class at your local pool",
+      "Practice entering the water slowly until it feels familiar",
+      "Work on breath control: blowing bubbles under water",
+      "Learn to float on your back with an instructor's support"
+    ],
+    "recommendedCategories": ["Water Safety", "Breath Control"]
+  },
+  {
+    "id": "developing",
+    "label": "Developing Swimmer",
+    "minScore": 4,
+    "maxScore": 7,
+    "tagline": "You have the foundation. Now build on it.",
+    "description": "You can manage yourself in the water and have some basic skills. This is the stage where technique starts to matter — small improvements now lead to big gains later.",
+    "nextSteps": [
+      "Focus on your freestyle arm pull and body rotation",
+      "Practice kicking drills with a kickboard",
+      "Work on exhaling underwater so you can breathe smoothly",
+      "Try swimming two lengths without stopping, then rest"
+    ],
+    "recommendedCategories": ["Stroke Technique", "Breath Control"]
+  },
+  {
+    "id": "intermediate",
+    "label": "Intermediate Swimmer",
+    "minScore": 8,
+    "maxScore": 11,
+    "tagline": "Solid skills. Time to add structure.",
+    "description": "You're a capable swimmer who can handle yourself well in the water. Now it's about endurance, efficiency, and refining strokes so you swim farther with less effort.",
+    "nextSteps": [
+      "Join a masters swim group or structured lap swim session",
+      "Learn flip turns to keep your momentum between lengths",
+      "Add backstroke or breaststroke to your regular practice",
+      "Try interval training: swim, rest, repeat"
+    ],
+    "recommendedCategories": ["Stroke Technique", "Training Tips"]
+  },
+  {
+    "id": "advanced",
+    "label": "Advanced Swimmer",
+    "minScore": 12,
+    "maxScore": 15,
+    "tagline": "You're the real deal. Keep pushing.",
+    "description": "You swim with confidence and competence across multiple strokes. Your focus now is on performance, consistency, and possibly competitive swimming or open water.",
+    "nextSteps": [
+      "Work with a coach to analyze your stroke on video",
+      "Introduce butterfly and individual medley sets",
+      "Build a periodized training plan with distance goals",
+      "Consider open water swimming or a local swim meet"
+    ],
+    "recommendedCategories": ["Training Tips", "Stroke Technique"]
+  }
+]
